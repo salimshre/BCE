@@ -35,11 +35,6 @@
 
 ## 💻 Technologies Used
 - C / C++
-- Python
-- MATLAB
-- MySQL
-- Assembly (if applicable)
-- LaTeX / Markdown
 - MS Word / Excel
 
 ---
@@ -62,8 +57,8 @@ While this repo is primarily for personal academic tracking, feel free to:
 ## 📩 Contact
 If you have questions or suggestions:
 
-- 📧 Email: [your-email@example.com]
-- 🔗 LinkedIn: [your-linkedin]
+- 📧 Email: [salim9shrestha@gmail.com]
+- 🔗 LinkedIn: [www.linkedin.com/in/salimshrestha]
 
 ---
 
