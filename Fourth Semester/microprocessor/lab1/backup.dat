@@ -1,0 +1,8 @@
+false
+	   MVI C,05
+	   MOV A,C
+	   RRC
+	   RRC
+	   RRC
+	   RRC
+	   HLT
