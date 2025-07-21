@@ -1,4 +1,4 @@
-false
+true
 	   MVI C,05
 	   MOV A,C
 	   RRC
