@@ -1,0 +1,59 @@
+Alright — let’s focus on **Unit I** and **Unit II** from your Python syllabus and turn them into likely exam questions.
+I’ll cover both **theory** and **practical/programming** type questions so you can prepare for any format.
+
+---
+
+## **📜 Unit I – Introduction to Python**
+
+**Theory Questions:**
+
+1. Explain the history and evolution of Python.
+2. List and explain five key features of Python.
+3. Write any five applications of Python in real life.
+4. Describe the steps to install Python on your system and set up the environment.
+5. What are keywords in Python? Give examples.
+6. Explain variables, constants, and identifiers with examples.
+7. List different data types in Python and give one example for each.
+8. What is type conversion in Python? Differentiate between implicit and explicit type conversion.
+9. Explain the use of `input()` and `print()` functions with examples.
+10. What are operators in Python? Explain arithmetic, relational, logical, and assignment operators.
+
+**Programming Questions:**
+
+1. Write a Python program to accept two numbers from the user and print their sum.
+2. Write a program to swap two numbers without using a third variable.
+3. Write a program that takes a user’s name and age as input and prints them in a formatted message.
+4. Write a Python script to calculate the area of a circle given its radius.
+5. Write a program to convert temperature from Celsius to Fahrenheit.
+
+---
+
+## **📜 Unit II – Control Structures**
+
+**Theory Questions:**
+
+1. Explain the different types of conditional statements in Python with syntax and examples.
+2. What is the difference between `if`, `if-else`, and `if-elif-else` statements?
+3. Define loops in Python. Explain `for` loop and `while` loop with examples.
+4. What are nested loops? Give an example.
+5. Explain the role of loop control statements (`break`, `continue`, `pass`) with examples.
+6. Compare entry-controlled loops and exit-controlled loops.
+7. What is the difference between `range()` and `enumerate()` functions?
+
+**Programming Questions:**
+
+1. Write a program to check if a number is positive, negative, or zero.
+2. Write a Python program to find the largest of three numbers.
+3. Write a program to check whether a number is even or odd.
+4. Write a program to print all numbers from 1 to 50 using a `while` loop.
+5. Write a program to display the multiplication table of a given number using a `for` loop.
+6. Write a program to calculate the factorial of a number using a loop.
+7. Write a program to print all prime numbers between 1 and 100.
+8. Write a program that takes a number `n` and prints the sum of its digits.
+9. Write a program to print the Fibonacci series up to `n` terms.
+10. Write a program to count the number of vowels in a given string using a loop.
+
+---
+
+If you want, I can **highlight the “most probable” 10 questions** from these that usually repeat in university exams so you can focus your study time efficiently.
+Do you want me to shortlist them for you?
