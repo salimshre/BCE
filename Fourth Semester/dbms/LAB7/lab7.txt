@@ -1,0 +1,14 @@
+CREATE TABLE works (employee_name varchar(50), company_name varchar(50), salary int);                   
+
+
+INSERT INTO WORKS 
+VALUES('SANTOSH','ABC COMPANY',2000),
+	('GAURAB','JCB COMPANY',4000),
+    ('SURYA','AHEAD COMPANY',5000),
+    ('PHURA','KCC COMPANY',2000)
+
+SELECT * FROM works WHERE SALARY > (SELECT AVG(SALARY) FROM WORKS);
+
+
+
+
