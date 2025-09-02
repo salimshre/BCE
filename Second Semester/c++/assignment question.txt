@@ -1,0 +1,22 @@
+Define functions. Explain its uses with examples.
+Why is OOP an essence? How is it different from procedural programming?
+Explain briefly the characteristics of OOP. Mention any 5 applications.
+Define function overloading. Illustrate with examples.
+Write about new and delete operators in CPP
+ Define Access modifiers. Illustrate its use with examples.
+Illustrate with example, how nested function is used.
+Define static member members and static member functions with use case, examples and purpose
+How is object passed as parameter? Show with example.
+With example, show how is an object returned by a function.
+Compare and contrast friend class and friend function.
+Define constructor. Given examples of default, parameterized and copy constructors each.
+Why is a destructor required? Show with example.
+ What is operator overloading? What are the rules for it?
+Illustrate with example, a unary and binary operator overloading.
+How do you convert a basic type to class type?
+Define class type to basic type conversion. Show its usage with example.
+Define inheritance, its types and examples of each.
+Define virtual class. Mention its essence.
+ How is file handling done in C++? Write functions of several file handling functions used in c++.
+Differentiate between function templates and class templates with examples of each.
+What is exception? What are the handling approaches? With illustration, show the usage of exception handling in c++.
